@@ -1,0 +1,25 @@
+{
+  "name": "devops-demo-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prak-Pisith/devops-demo-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prak-Pisith/devops-demo-01/issues"
+  },
+  "homepage": "https://github.com/Prak-Pisith/devops-demo-01#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
