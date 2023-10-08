@@ -9,3 +9,5 @@ Dockerfile
 
 # note
 note.txt
+
+docker-compose*
